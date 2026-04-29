@@ -3,5 +3,5 @@
   "symbol": "FRAG",
   "decimals": "9",
   "description": "Test token for Fragment-style marketplace",
-  "image": "https://images.prismic.io/getblock-blog/aL56UGGNHVfTOwDU_photo_2024-07-23_22-06-50.jpg"
+  "image": "https://raw.githubusercontent.com/advanztek/fragment-testing/refs/heads/main/fragment.png"
 }
