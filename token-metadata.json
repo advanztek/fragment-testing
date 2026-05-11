@@ -1,6 +1,6 @@
 {
-  "name": "TON from fragment",
-  "symbol": "FRAG",
+  "name": "TON",
+  "symbol": "TON",
   "decimals": "9",
   "description": "Test token for Fragment-style marketplace",
   "image": "https://raw.githubusercontent.com/advanztek/fragment-testing/refs/heads/main/fragment.png"
